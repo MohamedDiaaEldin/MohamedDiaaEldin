@@ -54,8 +54,6 @@ A waste material trading platform with delivery management and admin dashboards.
 - **Java Programming and Software Engineering Fundamentals** - Coursera  
 - **Data Structures and Performance** - Coursera  
 
-[View All Certifications](https://github.com/MohamedDiaaEldin)
-
 ---
 
 ## 📊 GitHub Stats
