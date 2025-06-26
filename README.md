@@ -52,14 +52,14 @@ A waste material trading platform with delivery management and admin dashboards.
 ## 🎓 Certifications
 - **Advanced Full-Stack Web Development Nanodegree** - Udacity  
 - **Java Programming and Software Engineering Fundamentals** - Coursera  
-- **Data Structures and Performance** - Coursera  
+- **Data Structures and Performance** - Coursera
 
+<!--
 ---
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedDiaaEldin&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedDiaaEldin&layout=compact&theme=radical)
-
+-->
 ---
 
 ✨ Feel free to explore my repositories and connect with me for collaboration opportunities!
